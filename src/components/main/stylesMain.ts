@@ -11,7 +11,6 @@ main:{
     width: "100%",
     height:"30%",
     flexWrap:"wrap",
-    alignContent: "center",
     justifyContent:"space-around",
     flexDirection: "row"
 
@@ -22,8 +21,25 @@ Box1:{
     backgroundColor: "rgba(69, 73, 69, 1)",
     borderRadius: 5,
     marginBottom: 2,
-    marginRight:1
-}
+    marginRight:1,
+    marginTop:3,
+    flexDirection:"row"
+    
+},
+image:{
+    width:65,
+    height:60,
+    borderRadius: 5,
+},
+
+text:{
+    fontSize:15,
+    justifyContent:"center",
+    alignItems:"center",
+    color:"white",
+    
+  },
+
 
 
 })
