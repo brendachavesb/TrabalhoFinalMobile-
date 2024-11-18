@@ -1,4 +1,4 @@
-import { Image, StyleSheet, Text, View } from 'react-native';
+import { Image, Text, View } from 'react-native';
 import { styles } from './styles';
 
 export default function Header (){
@@ -19,9 +19,4 @@ export default function Header (){
       </>
     );
 }
-export const style = StyleSheet.create({
-
-
-
-})
 

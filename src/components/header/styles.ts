@@ -2,18 +2,18 @@ import { StyleSheet } from "react-native";
 
 export const styles = StyleSheet.create({
     container:{
-      flex: 1,
+    
       backgroundColor:"black"
             
     },
     
       header:{
           width: "100%",
-          height: 45,
+          height:50,
           backgroundColor: "Black",
           flexDirection:"row",
           //justifyContent:"center",
-          alignItems:"flex-end"
+          alignItems:"center"
       },
 
       text:{
