@@ -4,7 +4,6 @@ import { styles } from "./card1Style"
 export default function Card1 (){
     return (
     <> 
-   
     <View style={styles.container}>
     <Text style={styles.text1} > Suas músicas estão com saudade </Text>
     <View style={styles.card1}>
@@ -17,8 +16,7 @@ export default function Card1 (){
         style={styles.image}/>
         <Text style={styles.text2} >Good Vibes Brasil 2024 - Nac...</Text>
         <Text style={styles.text3} >Playlist Good Vibes Brasil {"\n"}2024 nacionais e internacionais </Text>
-        </View>
-
+    </View>
     </View>
     </View>
     </>
