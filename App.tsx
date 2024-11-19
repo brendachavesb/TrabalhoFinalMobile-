@@ -12,10 +12,9 @@ export default function App() {
     <>
     <NavigationContainer> 
     <Navigator>
-    <Screen name="Principal" component={Principal} />
+    <Screen name="Principal" component={Principal} options={{ headerShown: false }} />
     </Navigator>
     </NavigationContainer>
     </>
   );
 }
-

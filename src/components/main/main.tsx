@@ -1,22 +1,20 @@
-import { View, Image, Text } from "react-native"
+import { View } from "react-native"
 import {styles} from './stylesMain'
+import Box1 from "./box1"
+import Car1 from "./card1"
+
+
+
+
 
 export default function Main (){
     return (
     <> 
-    <View style={styles.container}>
-    <View style={styles.main}>
-    <View style={styles.Box1}><Image source={require("../../../../trabalhoIndividual/assets/brenda.png")}
-      style={styles.image}
-      /><Text style={styles.text}> Projota </Text>  </View>  
-    <View style={styles.Box1}></View>
-    <View style={styles.Box1}></View>
-    <View style={styles.Box1}></View>
-    <View style={styles.Box1}></View>  
-    <View style={styles.Box1}></View>
-    <View style={styles.Box1}></View>
-    <View style={styles.Box1}></View>
-    </View>
-    </View>
+    
+   
+    <Box1/>
+    <Car1 />
+   
+  
     </>
     )}
