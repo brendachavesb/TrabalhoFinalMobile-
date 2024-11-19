@@ -10,6 +10,10 @@ export default function Car1 (){
         <Text style={styles.text1} > Suas músicas favoritas </Text>
     </View>
 
+    <View style={styles.card1}>
+        <Text style={styles.text1} > Suas músicas favoritas </Text>
+    </View>
+
     
      
      
