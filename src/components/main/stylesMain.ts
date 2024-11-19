@@ -19,7 +19,7 @@ Box1:{
     height:60,
     backgroundColor: "rgba(32, 32, 32, 1)",
     borderRadius: 5,
-    marginBottom: 2,
+    marginBottom: 5,
     //marginRight:1,
     marginTop:3,
     flexDirection:"row",

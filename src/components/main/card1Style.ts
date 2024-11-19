@@ -4,33 +4,51 @@ export const styles = StyleSheet.create({
 container:{
 
     backgroundColor:"blue",
-     //padding:1 
+     padding:3 
      },
 
 card1:{
 width: "100%",
 height:"60%",
 flexWrap:"wrap",
-//justifyContent:
+justifyContent:"space-between"
+
 
 },
 text1:{
-    marginTop:20,
-    fontSize:25,
+    marginTop:30,
+    fontSize:26,
     color:"white",
     fontWeight:"bold",
     //justifyContent:"flex-end"
  },
 
  Box1:{
-    width: 50,
-    height:60,
+    width: "48%",
+    height:"100%",
     backgroundColor: "rgba(32, 32, 32, 1)",
     borderRadius: 5,
     marginBottom: 2,
-    //marginRight:1,
-    alignItems:"center",}
+    marginRight:10,
+    marginTop: 20,
+    //alignItems:"center",
+},
+image:{
+    width: "100%",
+    height:"75%",
+    borderRadius: 5,
+},
     
+text2:{
+    marginTop: 8,
+    fontSize:14,
+    color:"white",
+    fontWeight:"bold",
+},
 
+text3:{
+    fontSize:11,
+    color:"white",
+},
 
 })
