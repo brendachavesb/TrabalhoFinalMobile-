@@ -25,7 +25,7 @@ text1:{
  Box1:{
     width: "48%",
     height:"150%",
-    backgroundColor: "rgba(32, 32, 32, 1)",
+    //backgroundColor: "rgba(32, 32, 32, 1)",
     borderRadius: 5,
     marginBottom: 2,
     marginRight:10,
