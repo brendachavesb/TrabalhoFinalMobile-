@@ -3,3 +3,4 @@ Não foi tão pratico quanto imaginei, pude adquirir muitos conhecimentos sobre 
 ![Print pagina original](assets\Print da pagina original spotify.jpeg)
 ![Print pagina gerado no expo go](assets\Print ExpoGo IOS.jpeg)
 
+****![image](https://github.com/user-attachments/assets/eecc2299-5fec-46e6-96c9-a1b7d950923e)
