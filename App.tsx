@@ -10,11 +10,9 @@ const{ Navigator, Screen} = createNativeStackNavigator<StackParamList>();
 export default function App() {
   return (
     <>
-    <NavigationContainer> 
-    <Navigator>
-    <Screen name="Principal" component={Principal} options={{ headerShown: false }} />
-    </Navigator>
-    </NavigationContainer>
+   
+    <Principal />
+   
     </>
   );
 }

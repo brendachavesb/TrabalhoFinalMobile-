@@ -3,13 +3,13 @@ import { StyleSheet } from "react-native";
 export const styles = StyleSheet.create({
    container:{
 
-        backgroundColor:"red",
+        backgroundColor:"black",
          //padding:1 
          },
 
 main:{
     width: "100%",
-    height:"28%",
+    height:"29%",
     flexWrap:"wrap",
     justifyContent:"space-around",
     flexDirection: "row"

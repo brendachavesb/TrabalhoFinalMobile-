@@ -3,20 +3,19 @@ import { StyleSheet } from "react-native";
 export const styles = StyleSheet.create({
 container:{
 
-    backgroundColor:"blue",
-     padding:3 
+    backgroundColor:"black",
+     //padding:3 
      },
 
 card1:{
 width: "100%",
-height:"60%",
+height:"40%",
 flexWrap:"wrap",
-justifyContent:"space-between"
-
+justifyContent:"space-around"
 
 },
 text1:{
-    marginTop:30,
+    marginTop:20,
     fontSize:26,
     color:"white",
     fontWeight:"bold",
@@ -25,7 +24,7 @@ text1:{
 
  Box1:{
     width: "48%",
-    height:"100%",
+    height:"150%",
     backgroundColor: "rgba(32, 32, 32, 1)",
     borderRadius: 5,
     marginBottom: 2,
@@ -35,7 +34,7 @@ text1:{
 },
 image:{
     width: "100%",
-    height:"75%",
+    height:"80%",
     borderRadius: 5,
 },
     
