@@ -21,7 +21,7 @@ Box1:{
     borderRadius: 5,
     marginBottom: 5,
     //marginRight:1,
-    marginTop:3,
+    marginTop:5,
     flexDirection:"row",
     alignItems:"center",
     

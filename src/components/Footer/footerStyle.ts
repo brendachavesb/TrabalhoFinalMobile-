@@ -2,21 +2,29 @@ import { StyleSheet } from "react-native";
 
 export const styles = StyleSheet.create({
     container:{
-    
-      backgroundColor:"red",
-      padding:20
+      width: "100%",
+      height:"15%",
+      backgroundColor:"rgba(30, 29, 29, 1)",
+      padding:20,
+      flexDirection:"row",
+      justifyContent:"space-between",
+      //alignItems:"center",
             
     },
-    
-      header:{
-          width: "100%",
-          height:"30%",
-          backgroundColor: "Black",
-          flexDirection:"row",
-          //justifyContent:"center",
-          alignItems:"flex-end"
-      },
 
+    Component:{
+      marginLeft:10,
+      color:"white",
+      bottom:3
       
-  
+    },
+    text:{
+      color:"white",
+      fontSize:18,
+      marginTop:5, 
+      alignContent:"center",
+      
+     
+    },
+    
     })

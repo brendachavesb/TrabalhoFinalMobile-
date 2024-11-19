@@ -15,7 +15,7 @@ justifyContent:"space-around"
 
 },
 text1:{
-    marginTop:20,
+    marginTop:30,
     fontSize:26,
     color:"white",
     fontWeight:"bold",
@@ -39,7 +39,7 @@ image:{
 },
     
 text2:{
-    marginTop: 8,
+    marginTop: 10,
     fontSize:14,
     color:"white",
     fontWeight:"bold",
